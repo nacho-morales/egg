@@ -24,6 +24,7 @@ public class Cliente implements Serializable {
     private String apellido;
     private String telefono;
     private String apodo;
+    private String apodo2;
     public Cliente() {
     }
 
